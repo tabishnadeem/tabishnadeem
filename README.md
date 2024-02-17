@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishnadeem&label=Profile%20views&color=0e75b6&style=flat" alt="tabishnadeem" /> </p>
 
-- 🔭 I’m currently working on [Poker Planning for Sprint Planning](projectLinksoon@domain.com)
+- 🔭 I’m currently working on an event Management Website for my friend
 
 - 🌱 I’m currently learning **AI, ML**
 
